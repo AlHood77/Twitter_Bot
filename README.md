@@ -4,7 +4,7 @@ Creating a Twitter Bot using Node.js
 
 Making a Twitter Bot which will retweet, favorite, post, follow, unfollow people. 
 
-config.js file added to gitignore but looks like this with the API keys inserted:
+config.js file added to gitignore but looks like this with the API keys inserted (obtained when you create a Twitter Developer Account):
 
 `module.exports = {
     consumer_key:’’,
