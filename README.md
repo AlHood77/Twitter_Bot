@@ -13,3 +13,6 @@ config.js file added to gitignore but looks like this with the API keys inserted
     access_token_secret:’’
     }`
     
+npm packages required
+
+`npm install — — save twit`
